@@ -3,8 +3,6 @@
 </p>
 
 
-Najam Ul Saqib is a web security researcher, penetration tester and web developer in Pakistan who is always willing to contribute to the digital world. His goal is to make internet a securer place and protect the assets of people from black hats :star2:
-
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=najum98&show_icons=true&count_private=true" alt="Najum98's GitHub stats" /> </p>
 <p align="center">
