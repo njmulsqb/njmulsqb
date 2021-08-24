@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/brsEO1JayBVja/giphy.gif" width="50%">
 </p>
 
-
+<a href ="https://www.buymeacoffee.com/njmulsqb" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=njmulsqb&show_icons=true&count_private=true" alt="NjmUlSqb's GitHub stats" /> </p>
 <p align="center">
