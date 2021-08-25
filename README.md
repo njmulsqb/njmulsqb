@@ -1,16 +1,28 @@
-<p align="center">
-<img src="https://media.giphy.com/media/brsEO1JayBVja/giphy.gif" width="50%">
-</p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=njmulsqb&show_icons=true&count_private=true" alt="NjmUlSqb's GitHub stats" /> </p>
-<p align="center">
-<a href="https://twitter.com/njmulsqb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhaddimu" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/njmulsqb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhaddimu" height="20" width="20" /></a>
-</p>
+![GitHub Views](https://komarev.com/ghpvc/?username=njmulsqb)
+
+Hey 👋🏻,
+
+I am a Software Engineer & Security Researcher from Pakistan 🇵🇰 I am a huge fan of FOSS and always loves to contribute to such projects. My expertise are in Javascript, TypeScript, ReactJS & NodeJS
 
 
-<a href ="https://www.buymeacoffee.com/njmulsqb" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+You can see what I am currently up to on [my blog](https://njmulsqb.github.io/blog)
 
----
-![](https://komarev.com/ghpvc/?username=njmulsqb)
+## 📬 Get in touch
+
+- Web: [https://njmulsqb.github.io/](https://njmulsqb.github.io/)
+- LinkedIn: [njmulsqb](https://linkedin.com/in/njmulsqb)
+- Twitter: [njmulsqb](https://twitter.com/njmulsqb)
+- Blog: [https://njmulsqb.github.io/blog](https://njmulsqb.github.io/blog)
+
+## 🤜🏻🤛🏻 Support Me
+
+You can support me and [buy me a coffee](https://www.buymeacoffee.com/njmulsqb), if you like my work.
+
+
+## &#x1f4c8; My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njmulsqb&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njmulsqb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
