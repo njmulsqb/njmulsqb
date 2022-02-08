@@ -6,7 +6,7 @@
 
 Hey 👋🏻,
 
-I am a Software Engineer & Security Researcher from Pakistan 🇵🇰 I am a huge fan of FOSS and always loves to contribute to such projects. My expertise are in Javascript, TypeScript, ReactJS & NodeJS
+I am a Software Engineer & Security Researcher from Pakistan 🇵🇰 I am a huge fan of FOSS and always loves to contribute to such projects. My expertise are in Javascript, TypeScript, and Python
 
 - Web: [https://njmulsqb.github.io/](https://njmulsqb.github.io/)
 
