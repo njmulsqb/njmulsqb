@@ -1,5 +1,5 @@
 
-[![Email Me](https://img.shields.io/badge/Email-njmulsqb%40protonmail.com-blue)](mailto:najamulsaqib@tutamail.com)
+[![Email Me](https://img.shields.io/badge/Email-najamulsaqib%40tutamail.com-blue)](mailto:najamulsaqib@tutamail.com)
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg?logo=linkedin)](https://linkedin.com/in/njmulsqb)
 ![GitHub Views](https://komarev.com/ghpvc/?username=njmulsqb)
 
